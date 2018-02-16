@@ -1,4 +1,4 @@
-Inspired by [shahnewaz/commit-message-emoji](https://github.com/dannyfritz/commit-message-emoji)
+Inspired by [shahnewaz/commit-message-emoji](https://github.com/msz5213/)
 
 See also [gitmoji](https://gitmoji.carloscuesta.me/).
 
