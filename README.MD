@@ -1,4 +1,4 @@
-See also gitmoji. Commit type	Emoji
+Commit type	Emoji
 
 Initial commit	🎉 :tada:
 Version tag	🔖 :bookmark:
